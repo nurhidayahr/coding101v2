@@ -1,0 +1,21 @@
+body {
+ text-align: center;
+ font-size: 25px;
+ font-family: 'Poppins', sans-serif;
+ background-color: #fcf0cf;
+ background-image: url(https://media.istockphoto.com/vectors/seamless-thin-linear-pattern-abstract-geometric-background-stylish-vector-id1174841576?b=1&k=6&m=1174841576&s=612x612&w=0&h=U25csJgVi9nGUu6KrcyxxTCiugMYsrj2bLjxiQMwBzo=);
+}
+
+p{
+  font-size: 30px;
+}
+
+.heading1 {
+  color: purple;
+}
+
+footer {
+  font-weight: bold;
+  text-align: right;
+  padding: 10px;
+}
